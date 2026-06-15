@@ -113,7 +113,7 @@ My philosophy: <em>build with intent, learn without limits, and ship things that
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,jupyter,anaconda&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,anaconda&theme=dark&perline=8" />
   </a>
 </p>
 
@@ -433,11 +433,12 @@ Completed the J.P. Morgan Software Engineering Job Simulation on Forage — gain
 ## 🏅 GitHub Trophies
 
 <br/>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ishika-1110&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ishika-1110&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&title=Stars,Commits,Repositories,Followers" />
 </p>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ishika-1110&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&title=PullRequest,Issues,MultiLanguage,Reviews" />
+</p>
 <br/>
 
 ---
