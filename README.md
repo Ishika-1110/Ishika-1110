@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:A855F7,100:EC4899&height=280&section=header&text=Ishika%20Varshney&fontSize=72&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Problem%20Solver&descSize=19&descAlignY=58&descColor=E9D5FF" width="100%"/>
 
@@ -157,11 +157,11 @@ status   : Open to Internships & Opportunities
 
 ---
 
-## 🗓️ Contribution Calendar
+## 👾 Pac-Man Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishika-1110&bg_color=0D0D1A&color=EC4899&line=A855F7&point=C084FC&area=true&area_color=6D28D9&hide_border=true&hide_title=true&radius=6" width="95%" />
+![pacman-dark](https://github.com/Ishika-1110/Ishika-1110/blob/output/pacman-contribution-graph-dark.svg?raw=true)
 
 </div>
 
